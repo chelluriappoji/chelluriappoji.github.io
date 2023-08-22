@@ -1,14 +1,17 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Name**: Appoji Chelluri
+**Role:** Architect
+**Domain:** 
+     Cloud: AWS, Azure, GCP
+     DevOps: Azure DevOps, Bamboo, Jenkins, Team City, AWS DevOps
+     Data Science & Analytics: ETL, M365, AWS Governance
+     Data: Kafka, Confluent Cloud, Spark, Data Bricks
+     IoT: Mosquitto MQ, AWS IoT, Azure IoT Hub, Azure IoT DPS, AWS IoT Device update
+     Platform: Kubernetes, Openshift, Dow
+     Projects: Adoption(New Cloud Onboardings), Migration (On-Premises to Cloud, CLoud to Cloud
+**Department:** Cloud Adoption and Migration     
 
 # Project 1
 
