@@ -5,6 +5,10 @@ Name: Appoji Chelluri
 
 Role: Architect
 
+Experience: 11 Years
+
+Company: Bosch Global Software Technologies
+
 Domain:
 
      Cloud:                       AWS, Azure, GCP
@@ -17,9 +21,23 @@ Domain:
      
      IoT:                         Mosquitto MQ, AWS IoT, Azure IoT Hub, Azure IoT DPS, AWS IoT Device update
      
-     Platform:                    Container Services, Kubernetes & Openshift(AWS, Azure, GCP), Docker Swarm (OnPremises) 
+     Platform:                    Container Services, Kubernetes & Openshift(AWS, Azure, GCP), Docker Swarm (OnPremises)
+
+     ERP:                         SAP Basis Administrator
      
-     Projects:                    Adoption(New Cloud Onboardings), Migration (On-Premises to Cloud, CLoud to Cloud
+     Build Automation:            Maven, NPM, Composer, MS Build
+
+     Code scan & Security Check:  SonarQube, Fortify, Veracode
+
+     SSO:                         Azure Active Directory
+
+     Scripting:                   Bash, Python
+
+     Ifrastructure as a code:     Terraform, Cloudformation
+     
+
+Projects:  Adoption(New Cloud Onboardings), Migration (On-Premises to Cloud, CLoud to Cloud)
+     
 
 Department: Cloud Adoption and Migration     
 
@@ -39,14 +57,8 @@ Data Analytics (AWS Governance):
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Born - September 14</dt>
+<dt>Birthplace - Visakhapatnam</dt>
 </dl>
 
 ```
