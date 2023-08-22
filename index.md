@@ -20,7 +20,7 @@ Data Analytics (AWS Governance):
 
 ### Small image
 
-![Octocat](https://github.com/chelluriappoji/chelluriappoji.github.io/blob/master/20220924144349_IMG_2169.JPG)
+![Octocat](https://github.com/chelluriappoji/chelluriappoji.github.io/blob/master/mypic.JPG)
 
 
 ### Definition lists can be used with HTML syntax.
